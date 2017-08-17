@@ -1,0 +1,23 @@
+From adf5124eb7f3aa2b815b564e7e199012a8e4351a Mon Sep 17 00:00:00 2001
+From: chnyda <chnyda@mirantis.com>
+Date: Thu, 17 Aug 2017 09:53:22 +0200
+Subject: [PATCH] Change doc style
+
+---
+ doc/conf.py | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+diff --git a/doc/conf.py b/doc/conf.py
+index b2e6d71..caf5a43 100644
+--- a/doc/conf.py
++++ b/doc/conf.py
+@@ -91,7 +91,7 @@
+ 
+ # The theme to use for HTML and HTML Help pages.  Major themes that come with
+ # Sphinx are currently 'default' and 'sphinxdoc'.
+-html_theme = 'bizstyle'
++html_theme = 'default'
+ 
+ # Theme options are theme-specific and customize the look and feel of a theme
+ # further.  For a list of options available for each theme, see the
+

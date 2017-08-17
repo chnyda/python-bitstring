@@ -1,3 +1,9 @@
+python-bitstring (3.1.4-1mirantis1) UNRELEASED; urgency=medium
+
+  * Change docstyle
+
+ -- chnyda <chnyda@youpi>  Thu, 17 Aug 2017 10:08:19 +0200
+
 python-bitstring (3.1.4-1) unstable; urgency=medium
 
   * Update patch queue:
